@@ -1,6 +1,6 @@
 {
     "name": "Global Record Search",
-    "version": "20.0.1.5.1",
+    "version": "20.0.1.5.2",
     "category": "Productivity",
     "summary": "Search business records from Odoo's built-in command palette",
     "description": """
