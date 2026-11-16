@@ -23,6 +23,7 @@ active company context.
             "sh_global_record_search/static/src/scss/global_record_search.scss",
         ],
     },
+    'images': ['static/description/banner.png'],
     "installable": True,
     "application": False,
 }
